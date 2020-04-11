@@ -11,7 +11,7 @@ p,{
 /*------------GENERAL STYLES----------------------*/
 
 body {
-background: center repeat;
+background: url(assets/wedding-background.png) center repeat;
 font-family: 'Libre Baskerville', serif
 font-size: 1.125rem;
 line-height: 1.5;
@@ -56,7 +56,7 @@ a:hover {
 /*----------------- HEADER STYLES------------------*/
 
 .cover {
-  background: no-repeat 70% center/cover;
+  background: url(assets/wedding-cover.jpg) no-repeat 70% center/cover;
   display: table;
   text-align: center;
   height: 100vh;
